@@ -6,7 +6,7 @@ File Organizer is a command-line application that organizes files based on user-
 
 ```bash
 git clone https://github.com/3BIK8/file-organizer-cli.git
-cd file-organizer
+cd file-organizer-cli
 npm install
 ```
 
