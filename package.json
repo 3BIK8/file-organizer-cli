@@ -1,0 +1,17 @@
+{
+	"name": "file-organizer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node fileOrganizer.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"commander": "^11.1.0",
+		"fs": "^0.0.1-security",
+		"path": "^0.12.7"
+	}
+}
